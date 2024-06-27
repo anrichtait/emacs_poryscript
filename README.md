@@ -29,7 +29,3 @@ git clone https://github.com/anrichtait/emacs_poryscript.git
 ```
 
 3. Restart emacs and open a .pory file to see that everything is in order.
-
-## License:
-
-This project is licensed under the [GNU Public License](LICENSE) - see the LICENSE file for details.
